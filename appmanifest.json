@@ -1,0 +1,10 @@
+{
+	"name": "dogalYapay",
+	"short_name": "dogalYapay",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": []
+}
