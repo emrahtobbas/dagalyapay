@@ -4223,7 +4223,8 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Browser.Acts.RequestFullScreen,
 		C3.Plugins.Browser.Acts.CancelFullScreen,
 		C3.Plugins.Audio.Acts.StopAll,
-		C3.Plugins.Audio.Cnds.OnEnded
+		C3.Plugins.Audio.Cnds.OnEnded,
+		C3.Plugins.System.Acts.ResetGlobals
 	];
 };
 self.C3_JsPropNameTable = [
@@ -4251,7 +4252,7 @@ self.C3_JsPropNameTable = [
 	{can: 0},
 	{can2: 0},
 	{can3: 0},
-	{Sprite2: 0},
+	{tekrarDene: 0},
 	{Sprite3: 0},
 	{baslaBtn: 0},
 	{sesBtn: 0},
