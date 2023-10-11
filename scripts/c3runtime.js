@@ -4420,11 +4420,11 @@ self.C3_ExpressionFuncs = [
 		() => "sevin",
 		() => 5,
 		() => "bil",
-		() => "hakkinda",
 		p => {
 			const v0 = p._GetNode(0).GetVar();
 			return () => (v0.GetValue() % 2);
 		},
+		() => "hakkinda",
 		() => "jenn",
 		() => "jen"
 ];
